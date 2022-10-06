@@ -5,3 +5,5 @@
 - 📫 How to reach me: [2401336502@qq.com](mailto:2401336502@qq.com)
 
 [![SwitWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwitWu)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwitWu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
